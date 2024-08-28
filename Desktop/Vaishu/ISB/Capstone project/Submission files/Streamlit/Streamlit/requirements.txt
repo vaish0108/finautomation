@@ -1,0 +1,14 @@
+openai
+PyPDF2
+spire.PDF
+pytesseract
+img2table
+python-docx
+torchvision
+transformers
+easyocr
+streamlit
+mysql
+mysql-connector-python
+sqlalchemy-utils
+matplotlib
